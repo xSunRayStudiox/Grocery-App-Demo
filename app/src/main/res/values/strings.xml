@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Food Point</string>
+    <string name="todo">TODO</string>
+
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="search">Search</string>
+</resources>
