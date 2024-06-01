@@ -10,7 +10,7 @@ Very clean and cool Design.
 # 
 Payment Gateway RazorPay. 
 # 
-![Screenshot_2022-12-09-12-46-28-714_Com SunRay FoodPoint 1](https://user-images.githubusercontent.com/75321653/206647017-23977849-6b0e-468c-82ac-aa7d03f50130.jpg =250x250)
+<img src="https://user-images.githubusercontent.com/75321653/206647017-23977849-6b0e-468c-82ac-aa7d03f50130.jpg" width="150" height="280">
 # 
 ![Screenshot_2022-12-09-12-46-31-761_Com SunRay FoodPoint](https://user-images.githubusercontent.com/75321653/206647169-9bde2a11-3703-419d-8a66-e5ed8da8cf15.jpg)
 # 
